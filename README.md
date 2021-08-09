@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 ### Bonjour! Ça va? 💬
 ### Olá! Tudo bem? 💬
 
