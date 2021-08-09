@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Bonjour 👋
-### Olá 💬
+### Bonjour! Ça va? 💬
+### Olá! Tudo bem? 💬
 
 <!--
 **matosgeorgenes/matosgeorgenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
