@@ -10,17 +10,43 @@
 </div>
     
 <div>
+  
 - 🔭 I am studying development Front-End HTML, CSS, JavaScript
+ 
+  ##
+
 - 🌱 I’m currently learning
+  
+  ##
+  
 - 💬 My e-mail address is: matos.gfr@outlook.fr
+  
+  ##
+  
 - 😄 Pronouns: he/him
+  
+  ##
+  
 </div>
 
 <div>
-- 🔭 J'étudie le développement Front-End HTML, CSS, JavaScript
-- 🌱 Je suis en train d'apprendre
+  
+- 🔭 <J'étudie le développement Front-End HTML, CSS, JavaScript/>
+  
+  ##
+  
+- 🌱 Je suis en train d'apprendre:
+  
+  ##
+  
 - 💬 Mon e-mail est la suivante: matos.gfr@outlook.fr
+  
+  ##
+  
 - 😄 Pronouns: he/him
+  
+  ##
+  
 </div>
   
 <div style="display: inline_block"><br>
