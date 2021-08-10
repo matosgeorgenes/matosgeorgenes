@@ -31,7 +31,7 @@
 
 <div>
   
-- 🔭 <J'étudie le développement Front-End HTML, CSS, JavaScript/>
+- 🔭 J'étudie le développement Front-End HTML, CSS, JavaScript
   
   ##
   
