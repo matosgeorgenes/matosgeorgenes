@@ -47,7 +47,7 @@
   
   ##
   
-- 😄 Pronouns: he/him
+- 😄 Pronouns: je/moi
   
   ##
   
