@@ -11,25 +11,25 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosgeorgenes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+##
   
 <div>
   
 - 🔭 I am studying development Front-End HTML, CSS, JavaScript
  
-  ##
+##
 
 - 🌱 I’m currently learning
   
-  ##
+##
   
 - 💬 My e-mail address is: matos.gfr@outlook.fr
   
-  ##
+##
   
 - 😄 Pronouns: he/him
   
-  ##
+##
   
 </div>
 
@@ -37,19 +37,19 @@
   
 - 🔭 J'étudie le développement Front-End HTML, CSS, JavaScript
   
-  ##
+##
   
 - 🌱 Je suis en train d'apprendre
   
-  ##
+##
   
 - 💬 Mon e-mail est la suivante: matos.gfr@outlook.fr
   
-  ##
+##
   
 - 😄 Pronouns: je/moi
   
-  ##
+##
   
 </div>
   
